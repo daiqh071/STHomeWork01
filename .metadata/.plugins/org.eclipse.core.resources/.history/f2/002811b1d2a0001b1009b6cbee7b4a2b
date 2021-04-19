@@ -1,0 +1,13 @@
+package org.soft.main;
+
+import java.util.Scanner;
+
+import org.soft.service.StudentManager;
+
+/*public class SMTest {
+	public static void main(String[] args){
+		StudentManager sm=new StudentManager();
+		sm.StudentManageApp();
+	}
+}
+*/

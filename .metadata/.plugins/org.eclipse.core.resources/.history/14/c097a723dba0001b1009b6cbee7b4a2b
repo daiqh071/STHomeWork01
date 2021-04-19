@@ -1,0 +1,14 @@
+package org.soft.main;
+
+import java.util.Scanner;
+
+import org.soft.service.StudentManager;
+
+public class SMTest {
+	public static void main(String[] args){
+		boolean i="123".equals(null);
+		System.out.println(i);
+		StudentManager sm=new StudentManager();
+		sm.StudentManageApp();
+	}
+}

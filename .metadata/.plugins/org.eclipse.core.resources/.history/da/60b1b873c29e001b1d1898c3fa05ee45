@@ -1,0 +1,7 @@
+package org.soft.main;
+
+public class SMTest {
+	public static void main(String[] args){
+		
+	}
+}

@@ -1,0 +1,5 @@
+package org.soft.vo;
+
+public class Student {
+
+}

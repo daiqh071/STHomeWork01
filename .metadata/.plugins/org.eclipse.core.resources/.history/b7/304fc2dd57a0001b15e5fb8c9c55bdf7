@@ -1,0 +1,25 @@
+package org.soft.main;
+
+import java.util.Scanner;
+
+public class SMTest {
+	public static void main(String[] args){
+		int k;
+		do{
+			System.out.println("请选择操作：");
+			System.out.println("******************************************");
+			System.out.println("*                 1 插入                                    *");
+			System.out.println("*                 2 查找                                    *");
+			System.out.println("*                 3 删除                                    *");
+			System.out.println("*                 4 修改                                    *");
+			System.out.println("*                 5 输出                                    *");
+			System.out.println("*                 6 退出                                    *");
+			System.out.println("******************************************");
+			Scanner sc=new Scanner(System.in);
+			k=sc.nextInt();
+			
+		}while(k!=6);
+		//退出系统
+		System.exit(0);
+	}
+}

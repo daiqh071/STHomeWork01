@@ -1,0 +1,6 @@
+2021-05-07 11:24:57.740 INFO   [main] (StudentManager.java:136) - 数组排序成功
+2021-05-07 11:24:57.747 INFO   [main] (StudentManager.java:107) - 成功插入一条数据
+2021-05-07 11:25:19.159 INFO   [main] (StudentManager.java:314) - 当数组标志显示没有有效数据，停止查询
+2021-05-07 14:27:49.807 INFO   [main] (StudentManager.java:136) - 数组排序成功
+2021-05-07 14:27:49.818 INFO   [main] (StudentManager.java:107) - 成功插入一条数据
+2021-05-07 14:27:54.233 INFO   [main] (StudentManager.java:314) - 当数组标志显示没有有效数据，停止查询

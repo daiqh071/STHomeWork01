@@ -1,9 +1,0 @@
-package org.soft.main;
-
-import java.util.Scanner;
-
-public class SMTest {
-	public static void main(String[] args){
-		System.out.println("hello");
-	}
-}
